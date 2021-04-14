@@ -6,7 +6,6 @@ import (
 	"./controllers/accountcontroller"
 )
 
-//https://www.youtube.com/watch?v=CROR9tWLgFo
 //http://localhost:10000/account
 
 func main() {
